@@ -1,6 +1,4 @@
-/* script.js — optimized and small */
-
-// Placeholder project slots (change later)
+// Placeholder project slots 
 const projects = [
   { image: "https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&q=60&w=800", desc: "Project 1" },
   { image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&q=60&w=800", desc: "Project 2" },
